@@ -1,0 +1,80 @@
+
+body {
+    background-image: url("D:/TUIT/BMI/Front-End/Images/signin/big-back.jpeg");
+    height: 100%;
+    background-size: cover;
+}
+
+
+.sign-form {
+    background-image: url("D:/TUIT/BMI/Front-End/Images/signin/signin-back.jpeg");
+    width: 270px;
+    height: auto;
+    padding: 20px 10px;
+    margin: 15% 40%;
+    border: 2px solid red;
+    border-radius: 15px;
+    color: red;
+
+
+}
+
+.sign-form .login-text, .login-note, .parol-text, .parol-note, button {
+    display: inline-block;
+}
+
+.sign-form h1 {
+    color: red;
+}
+
+.sign-form input {
+    color: #bf00ff;
+    margin: 10px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    border: 2px solid red;
+    background-color: #030e03;
+
+}
+
+.sign-form label {
+    color: red;
+}
+
+.sign-form .sent-notes {
+    border: 2px solid red;
+    border-radius: 5px;
+    margin: 15px auto;
+    padding: 5px 10px;
+    background-color: green;
+    color: yellow;
+
+}
+
+.sign-form .sent-notes:active {
+    border: 2px solid red;
+    border-radius: 5px;
+    margin: 15px auto;
+    padding: 5px 10px;
+    background-color: #001e80;
+    color: yellow;
+
+}
+
+.sign-form .link-part {
+    margin: 15px 10px;
+}
+
+.sign-form .link-part .signin-other {
+    margin: 15px;
+}
+
+.sign-form .link-part a {
+    text-decoration: none;
+    color: chartreuse;
+}
+
+.sign-form .link-part a:active {
+    text-decoration: none;
+    color: #ff002f;
+}

@@ -1,0 +1,94 @@
+
+* {
+    color: white;
+}
+
+.signup-form {
+    background-image: url("D:/TUIT/BMI/Front-End/Images/signin/signin-back.jpeg");
+    background-size: cover;
+    width: 25%;
+    height: auto;
+    margin-top: 10%;
+    margin-left: 34%;
+    padding: 10px 15px;
+    border: 2px solid green;
+    border-radius: 15px;
+}
+
+.signup-form .text-place {
+    color: chartreuse;
+}
+
+.signup-form .enter-notes {
+
+}
+
+.signup-form .user-block {
+    display: block;
+    margin: 10px auto;
+}
+
+.signup-form input {
+    border: 2px solid #02ff02;
+    border-radius: 15px;
+    color: chartreuse;
+    margin: auto 10px;
+    background-color: black;
+    padding: 5px 10px;
+}
+
+.signup-form label {
+    color: lawngreen;
+}
+
+.signup-form .email-block {
+    display: block;
+    margin: 15px auto;
+}
+
+.signup-form .pass-block {
+    display: block;
+    margin: 15px auto;
+}
+
+.signup-form .conf-pass-block {
+    display: block;
+    margin: 15px auto;
+}
+
+.signup-form .send-up {
+    color: #02ff02;
+    border: 2px solid #05f805;
+    background-color: #3f3fa6;
+    padding: 7px;
+    border-radius: 15px;
+    margin: 15px auto;
+}
+
+.signup-form .send-up:active {
+    color: #02ff02;
+    border: 2px solid #05f805;
+    background-color: #c809f3;
+    padding: 7px;
+    border-radius: 15px;
+    margin: 15px auto;
+}
+
+.signup-form .go-sign-in {
+    display: inline;
+}
+
+.signup-form .conts {
+    display: inline;
+    margin-left: 5px;
+}
+
+.signup-form .to-sign-in {
+    text-decoration: none;
+    color: aqua;
+}
+
+.signup-form .to-sign-in:active {
+    text-decoration: none;
+    color: #003cff;
+}
