@@ -1,13 +1,13 @@
 
 body {
-    background-image: url("D:/TUIT/BMI/Front-End/Images/signin/big-back.jpeg");
+    background-image: url("D:/TUIT/BMI/Front-End/registration/public/big-back.jpeg");
     height: 100%;
     background-size: cover;
 }
 
 
 .sign-form {
-    background-image: url("D:/TUIT/BMI/Front-End/Images/signin/signin-back.jpeg");
+    background-image: url("D:/TUIT/BMI/Front-End/registration/public/signin-back.jpeg");
     width: 270px;
     height: auto;
     padding: 20px 10px;

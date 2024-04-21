@@ -3,8 +3,14 @@
     color: white;
 }
 
+body {
+    background-image: url("D:/TUIT/BMI/Front-End/registration/public/big-back.jpeg");
+    height: 100%;
+    background-size: cover;
+}
+
 .signup-form {
-    background-image: url("D:/TUIT/BMI/Front-End/Images/signin/signin-back.jpeg");
+    background-image: url("D:/TUIT/BMI/Front-End/registration/public/signin-back.jpeg");
     background-size: cover;
     width: 25%;
     height: auto;
